@@ -1,0 +1,49 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>Nikki Sagar's Portfolio</h1>
+    <nav>
+      <a href="#about">About</a> |
+      <a href="#course">My Course</a> |
+      <a href="#blog">Blog</a> |
+      <a href="https://github.com">GitHub</a>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>I am Nikki Sagar, a B.Tech Artificial Intelligence student learning programming and web design.</p>
+      <p>Email: <a href="mailto:Nikkisagar017021@gmail.com">Nikkisagar017021@gmail.com</a></p>
+    </section>
+    <section id="course">
+      <h2>My Course</h2>
+      <ul>
+        <li>Subjects
+          <ol>
+            <li>Web Development</li>
+            <li>Programming</li>
+          </ol>
+        </li>
+        <li>Tools: VS Code, Git</li>
+      </ul>
+    </section>
+    <article id="blog">
+      <h2>My First Blog</h2>
+      <p>Today I built my first webpage and learned headings, links and lists in HTML.</p>
+    </article>
+  </main>
+  <aside>
+    <h3>Quick Facts</h3>
+    <p>Hobby: Learning new skills</p>
+  </aside>
+  <footer><p>Made by Nikki Sagar</p></footer>
+</body>
+</html>
